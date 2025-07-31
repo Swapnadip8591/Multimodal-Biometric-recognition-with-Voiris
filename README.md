@@ -35,8 +35,8 @@ The application provides a user-friendly interface to test the recognition syste
 
 This project is designed to work with the following datasets:
 
-* **Voice**: The [CorporaBangla](https://www.kaggle.com/datasets/arijitx/corporabangla) dataset, which contains Bengali speech data.
-* **Iris**: The [DOBES](https://www.kaggle.com/datasets/debranjansarkar/dobes-database) dataset, which is a database of eye images.
+* **Voice**: The CorporaBangla dataset, which contains Bengali speech data.
+* **Iris**: The DOBES dataset, which is a database of eye images.
 
 *The provided `dataset` folder in this repository contains a sample subset of these datasets.*
 
